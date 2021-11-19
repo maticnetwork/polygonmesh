@@ -1,0 +1,469 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/polygonmesh/docs",
+          "versionEditUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs",
+          "versionEditUrlLocalized": "https://github.com/maticnetwork/polygonmesh/edit/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": "none",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Dell\\projects\\polygon\\polygonmesh\\sidebars.js",
+          "contentPath": "C:\\Users\\Dell\\projects\\polygon\\polygonmesh\\docs",
+          "contentPathLocalized": "C:\\Users\\Dell\\projects\\polygon\\polygonmesh\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "CSS Library",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "css-library/getting-started"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Layout",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "css-library/Layout/breakpoints"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "css-library/Layout/container"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "css-library/Layout/grid-column"
+                      }
+                    ],
+                    "collapsed": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Content",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "css-library/content/typography"
+                      }
+                    ],
+                    "collapsed": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Components",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "css-library/components/button"
+                      }
+                    ],
+                    "collapsed": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Form",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "css-library/form/form-control"
+                      }
+                    ],
+                    "collapsed": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Util",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "css-library/util/background"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "css-library/util/corners"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "css-library/util/shadows"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "css-library/util/spacing"
+                      }
+                    ],
+                    "collapsed": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Customize",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "css-library/customize/theme"
+                      }
+                    ],
+                    "collapsed": true
+                  }
+                ],
+                "collapsed": true
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/polygonmesh/docs/css-library/components/button": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/content/typography": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/customize/theme": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/form/form-control": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/getting-started": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/Layout/breakpoints": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/Layout/container": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/Layout/grid-column": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/util/background": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/util/corners": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/util/shadows": "tutorialSidebar",
+            "/polygonmesh/docs/css-library/util/spacing": "tutorialSidebar",
+            "/polygonmesh/docs/intro": "tutorialSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "css-library/components/button",
+              "id": "css-library/components/button",
+              "isDocsHomePage": false,
+              "title": "Button",
+              "description": "PolygonMesh has a bunch of button classes that takes care of states, size variants and color variants.",
+              "source": "@site/docs/css-library/components/button.md",
+              "sourceDirName": "css-library/components",
+              "slug": "/css-library/components/button",
+              "permalink": "/polygonmesh/docs/css-library/components/button",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/components/button.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Typography",
+                "permalink": "/polygonmesh/docs/css-library/content/typography"
+              },
+              "next": {
+                "title": "Form Control",
+                "permalink": "/polygonmesh/docs/css-library/form/form-control"
+              }
+            },
+            {
+              "unversionedId": "css-library/content/typography",
+              "id": "css-library/content/typography",
+              "isDocsHomePage": false,
+              "title": "Typography",
+              "description": "Typography includes a set of typographic elements that can be used to build a more consistent and readable page. Documentation for headlines, body, labels, display, code and scss mixins.",
+              "source": "@site/docs/css-library/content/typography.md",
+              "sourceDirName": "css-library/content",
+              "slug": "/css-library/content/typography",
+              "permalink": "/polygonmesh/docs/css-library/content/typography",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/content/typography.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Grid and Columns",
+                "permalink": "/polygonmesh/docs/css-library/Layout/grid-column"
+              },
+              "next": {
+                "title": "Button",
+                "permalink": "/polygonmesh/docs/css-library/components/button"
+              }
+            },
+            {
+              "unversionedId": "css-library/customize/theme",
+              "id": "css-library/customize/theme",
+              "isDocsHomePage": false,
+              "title": "Theme",
+              "description": "The colors can be customized by overriding the css variables. The default values are as follows.",
+              "source": "@site/docs/css-library/customize/theme.md",
+              "sourceDirName": "css-library/customize",
+              "slug": "/css-library/customize/theme",
+              "permalink": "/polygonmesh/docs/css-library/customize/theme",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/customize/theme.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Spacing",
+                "permalink": "/polygonmesh/docs/css-library/util/spacing"
+              }
+            },
+            {
+              "unversionedId": "css-library/form/form-control",
+              "id": "css-library/form/form-control",
+              "isDocsHomePage": false,
+              "title": "Form Control",
+              "description": "The form control classes take care of the states and sizes of the input elements like ` and `",
+              "source": "@site/docs/css-library/form/form-control.md",
+              "sourceDirName": "css-library/form",
+              "slug": "/css-library/form/form-control",
+              "permalink": "/polygonmesh/docs/css-library/form/form-control",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/form/form-control.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Button",
+                "permalink": "/polygonmesh/docs/css-library/components/button"
+              },
+              "next": {
+                "title": "Background",
+                "permalink": "/polygonmesh/docs/css-library/util/background"
+              }
+            },
+            {
+              "unversionedId": "css-library/getting-started",
+              "id": "css-library/getting-started",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "The CSS Library is essentially a CSS file that you can include in your HTML. Currently, only the CSS version of the library is available. We are planning to publish the NPM package soon which will include the SCSS version too.",
+              "source": "@site/docs/css-library/getting-started.md",
+              "sourceDirName": "css-library",
+              "slug": "/css-library/getting-started",
+              "permalink": "/polygonmesh/docs/css-library/getting-started",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/getting-started.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/polygonmesh/docs/intro"
+              },
+              "next": {
+                "title": "Breakpoints",
+                "permalink": "/polygonmesh/docs/css-library/Layout/breakpoints"
+              }
+            },
+            {
+              "unversionedId": "css-library/Layout/breakpoints",
+              "id": "css-library/Layout/breakpoints",
+              "isDocsHomePage": false,
+              "title": "Breakpoints",
+              "description": "Media queries allows the developer to conditionally apply the styles to the element based on the screensize. Breakpoints are the screen widths that determines at what size which styles should be applied.",
+              "source": "@site/docs/css-library/Layout/breakpoints.md",
+              "sourceDirName": "css-library/Layout",
+              "slug": "/css-library/Layout/breakpoints",
+              "permalink": "/polygonmesh/docs/css-library/Layout/breakpoints",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/Layout/breakpoints.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installation",
+                "permalink": "/polygonmesh/docs/css-library/getting-started"
+              },
+              "next": {
+                "title": "Container",
+                "permalink": "/polygonmesh/docs/css-library/Layout/container"
+              }
+            },
+            {
+              "unversionedId": "css-library/Layout/container",
+              "id": "css-library/Layout/container",
+              "isDocsHomePage": false,
+              "title": "Container",
+              "description": "Containers are the basic layout elements that usually contain the grid rows. Their basic funtionality is to contain the content within them.",
+              "source": "@site/docs/css-library/Layout/container.md",
+              "sourceDirName": "css-library/Layout",
+              "slug": "/css-library/Layout/container",
+              "permalink": "/polygonmesh/docs/css-library/Layout/container",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/Layout/container.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Breakpoints",
+                "permalink": "/polygonmesh/docs/css-library/Layout/breakpoints"
+              },
+              "next": {
+                "title": "Grid and Columns",
+                "permalink": "/polygonmesh/docs/css-library/Layout/grid-column"
+              }
+            },
+            {
+              "unversionedId": "css-library/Layout/grid-column",
+              "id": "css-library/Layout/grid-column",
+              "isDocsHomePage": false,
+              "title": "Grid and Columns",
+              "description": "Grid and columns are the most important part of the layout. The PolygonMesh Grid System is a 12-column, mobile first responsive system built with flexbox.",
+              "source": "@site/docs/css-library/Layout/grid-column.mdx",
+              "sourceDirName": "css-library/Layout",
+              "slug": "/css-library/Layout/grid-column",
+              "permalink": "/polygonmesh/docs/css-library/Layout/grid-column",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/Layout/grid-column.mdx",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Container",
+                "permalink": "/polygonmesh/docs/css-library/Layout/container"
+              },
+              "next": {
+                "title": "Typography",
+                "permalink": "/polygonmesh/docs/css-library/content/typography"
+              }
+            },
+            {
+              "unversionedId": "css-library/util/background",
+              "id": "css-library/util/background",
+              "isDocsHomePage": false,
+              "title": "Background",
+              "description": "Background color classes can be used to set background color for an element.",
+              "source": "@site/docs/css-library/util/background.md",
+              "sourceDirName": "css-library/util",
+              "slug": "/css-library/util/background",
+              "permalink": "/polygonmesh/docs/css-library/util/background",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/util/background.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Form Control",
+                "permalink": "/polygonmesh/docs/css-library/form/form-control"
+              },
+              "next": {
+                "title": "Corners",
+                "permalink": "/polygonmesh/docs/css-library/util/corners"
+              }
+            },
+            {
+              "unversionedId": "css-library/util/corners",
+              "id": "css-library/util/corners",
+              "isDocsHomePage": false,
+              "title": "Corners",
+              "description": "The corner (.rounded) classes allows you to easily add rounded corners to any element. The syntax for the .rounded class is as follows:",
+              "source": "@site/docs/css-library/util/corners.md",
+              "sourceDirName": "css-library/util",
+              "slug": "/css-library/util/corners",
+              "permalink": "/polygonmesh/docs/css-library/util/corners",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/util/corners.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Background",
+                "permalink": "/polygonmesh/docs/css-library/util/background"
+              },
+              "next": {
+                "title": "Shadows",
+                "permalink": "/polygonmesh/docs/css-library/util/shadows"
+              }
+            },
+            {
+              "unversionedId": "css-library/util/shadows",
+              "id": "css-library/util/shadows",
+              "isDocsHomePage": false,
+              "title": "Shadows",
+              "description": "The shadow classes allows you to add box-shadow to any element. The syntax is as follows:",
+              "source": "@site/docs/css-library/util/shadows.md",
+              "sourceDirName": "css-library/util",
+              "slug": "/css-library/util/shadows",
+              "permalink": "/polygonmesh/docs/css-library/util/shadows",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/util/shadows.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Corners",
+                "permalink": "/polygonmesh/docs/css-library/util/corners"
+              },
+              "next": {
+                "title": "Spacing",
+                "permalink": "/polygonmesh/docs/css-library/util/spacing"
+              }
+            },
+            {
+              "unversionedId": "css-library/util/spacing",
+              "id": "css-library/util/spacing",
+              "isDocsHomePage": false,
+              "title": "Spacing",
+              "description": "Spacing classes include margin and padding.",
+              "source": "@site/docs/css-library/util/spacing.md",
+              "sourceDirName": "css-library/util",
+              "slug": "/css-library/util/spacing",
+              "permalink": "/polygonmesh/docs/css-library/util/spacing",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/util/spacing.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Shadows",
+                "permalink": "/polygonmesh/docs/css-library/util/shadows"
+              },
+              "next": {
+                "title": "Theme",
+                "permalink": "/polygonmesh/docs/css-library/customize/theme"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "👋 PolygonMesh will help you build beautiful websites in no time. It is an open-source design system crafted meticulously by the designers and developer at Polygon Technology.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/polygonmesh/docs/intro",
+              "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/intro.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Installation",
+                "permalink": "/polygonmesh/docs/css-library/getting-started"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/polygonmesh/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/polygonmesh/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

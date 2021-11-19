@@ -1,0 +1,23 @@
+{
+  "unversionedId": "css-library/Layout/container",
+  "id": "css-library/Layout/container",
+  "isDocsHomePage": false,
+  "title": "Container",
+  "description": "Containers are the basic layout elements that usually contain the grid rows. Their basic funtionality is to contain the content within them.",
+  "source": "@site/docs/css-library/Layout/container.md",
+  "sourceDirName": "css-library/Layout",
+  "slug": "/css-library/Layout/container",
+  "permalink": "/polygonmesh/docs/css-library/Layout/container",
+  "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/Layout/container.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Breakpoints",
+    "permalink": "/polygonmesh/docs/css-library/Layout/breakpoints"
+  },
+  "next": {
+    "title": "Grid and Columns",
+    "permalink": "/polygonmesh/docs/css-library/Layout/grid-column"
+  }
+}

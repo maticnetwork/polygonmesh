@@ -1,0 +1,23 @@
+{
+  "unversionedId": "css-library/util/corners",
+  "id": "css-library/util/corners",
+  "isDocsHomePage": false,
+  "title": "Corners",
+  "description": "The corner (.rounded) classes allows you to easily add rounded corners to any element. The syntax for the .rounded class is as follows:",
+  "source": "@site/docs/css-library/util/corners.md",
+  "sourceDirName": "css-library/util",
+  "slug": "/css-library/util/corners",
+  "permalink": "/polygonmesh/docs/css-library/util/corners",
+  "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/util/corners.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Background",
+    "permalink": "/polygonmesh/docs/css-library/util/background"
+  },
+  "next": {
+    "title": "Shadows",
+    "permalink": "/polygonmesh/docs/css-library/util/shadows"
+  }
+}

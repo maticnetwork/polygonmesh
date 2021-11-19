@@ -1,0 +1,19 @@
+{
+  "unversionedId": "vue-components/intro",
+  "id": "vue-components/intro",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "",
+  "source": "@site/docs/vue-components/intro.md",
+  "sourceDirName": "vue-components",
+  "slug": "/vue-components/intro",
+  "permalink": "/matic-design-system/docs/vue-components/intro",
+  "editUrl": "https://github.com/maticnetwork/matic-design-system/edit/master/website/docs/vue-components/intro.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Theme",
+    "permalink": "/matic-design-system/docs/css-library/customize/theme"
+  }
+}

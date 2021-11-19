@@ -1,0 +1,19 @@
+{
+  "unversionedId": "css-library/customize/theme",
+  "id": "css-library/customize/theme",
+  "isDocsHomePage": false,
+  "title": "Theme",
+  "description": "The colors can be customized by overriding the css variables. The default values are as follows.",
+  "source": "@site/docs/css-library/customize/theme.md",
+  "sourceDirName": "css-library/customize",
+  "slug": "/css-library/customize/theme",
+  "permalink": "/polygonmesh/docs/css-library/customize/theme",
+  "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/customize/theme.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spacing",
+    "permalink": "/polygonmesh/docs/css-library/util/spacing"
+  }
+}

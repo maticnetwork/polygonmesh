@@ -1,0 +1,26 @@
+{
+  "unversionedId": "css-library/getting-started",
+  "id": "css-library/getting-started",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "The CSS Library is essentially a CSS file that you can include in your HTML. Currently, only the CSS version of the library is available. We are planning to publish the NPM package soon which will include the SCSS version too.",
+  "source": "@site/docs/css-library/getting-started.md",
+  "sourceDirName": "css-library",
+  "slug": "/css-library/getting-started",
+  "permalink": "/polygonmesh/docs/css-library/getting-started",
+  "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/getting-started.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/polygonmesh/docs/intro"
+  },
+  "next": {
+    "title": "Breakpoints",
+    "permalink": "/polygonmesh/docs/css-library/Layout/breakpoints"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "css-library/form/form-control",
+  "id": "css-library/form/form-control",
+  "isDocsHomePage": false,
+  "title": "Form Control",
+  "description": "The form control classes take care of the states and sizes of the input elements like ` and `",
+  "source": "@site/docs/css-library/form/form-control.md",
+  "sourceDirName": "css-library/form",
+  "slug": "/css-library/form/form-control",
+  "permalink": "/polygonmesh/docs/css-library/form/form-control",
+  "editUrl": "https://github.com/maticnetwork/polygonmesh/edit/docs/docs/css-library/form/form-control.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Button",
+    "permalink": "/polygonmesh/docs/css-library/components/button"
+  },
+  "next": {
+    "title": "Background",
+    "permalink": "/polygonmesh/docs/css-library/util/background"
+  }
+}

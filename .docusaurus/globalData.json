@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/polygonmesh/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/polygonmesh/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "css-library/components/button",
+              "path": "/polygonmesh/docs/css-library/components/button",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/content/typography",
+              "path": "/polygonmesh/docs/css-library/content/typography",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/customize/theme",
+              "path": "/polygonmesh/docs/css-library/customize/theme",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/form/form-control",
+              "path": "/polygonmesh/docs/css-library/form/form-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/getting-started",
+              "path": "/polygonmesh/docs/css-library/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/Layout/breakpoints",
+              "path": "/polygonmesh/docs/css-library/Layout/breakpoints",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/Layout/container",
+              "path": "/polygonmesh/docs/css-library/Layout/container",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/Layout/grid-column",
+              "path": "/polygonmesh/docs/css-library/Layout/grid-column",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/util/background",
+              "path": "/polygonmesh/docs/css-library/util/background",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/util/corners",
+              "path": "/polygonmesh/docs/css-library/util/corners",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/util/shadows",
+              "path": "/polygonmesh/docs/css-library/util/shadows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css-library/util/spacing",
+              "path": "/polygonmesh/docs/css-library/util/spacing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/polygonmesh/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
