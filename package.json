@@ -10,7 +10,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node-sass src/classes/_all.scss dist/polygonmesh.css",
+    "build": "node-sass src/index.scss dist/polygonmesh.css",
     "deploy": "npm run build && cleancss -o dist/polygonmesh.min.css dist/polygonmesh.css",
     "pack": "npm run deploy && npm pack"
   },
