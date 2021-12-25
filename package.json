@@ -1,5 +1,5 @@
 {
-  "name": "polygonmesh",
+  "name": "@maticnetwork/polygonmesh",
   "version": "1.0.0",
   "description": "A CSS library by Polygon Technology",
   "main": "dist/index.js",
